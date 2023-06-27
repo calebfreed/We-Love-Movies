@@ -1,6 +1,6 @@
-# Project Name
+# We Love Movies
 
-## Description
+## Project for Thinkful: Displaying skills in deploying backend code.
 
 This project showcases my technical skills in building complex servers and accessing data through a database. It demonstrates my ability to perform the following tasks:
 
@@ -25,17 +25,6 @@ This project showcases my technical skills in building complex servers and acces
 4. Execute the database migrations using Knex: `knex migrate:latest`.
 5. Start the server by running the command: `npm start`.
 
-## Usage
-
-After following the installation steps, you can access the project's functionality through the provided routes. The API exposes the following endpoints:
-
-- `GET /api/endpoint1`: Retrieves data for endpoint1.
-- `POST /api/endpoint2`: Creates a new entry for endpoint2.
-- `PUT /api/endpoint2/:id`: Updates an existing entry for endpoint2.
-- `DELETE /api/endpoint2/:id`: Deletes an entry for endpoint2.
-
-Make sure to include any required data or parameters when making requests to these endpoints.
-
 ## Testing
 
 To run the tests for this project, use the following command: `npm test`. This will execute the test suite and provide feedback on the functionality and correctness of the implemented features.
@@ -43,7 +32,3 @@ To run the tests for this project, use the following command: `npm test`. This w
 ## Deployment
 
 The backend server can be deployed to a cloud service of your choice. Ensure that you have the necessary credentials and configuration in place for the deployment process. Once ready, follow the cloud service provider's documentation to deploy the server.
-
-## Contributing
-
-If you would like to contribute to this
