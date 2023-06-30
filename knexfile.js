@@ -2,6 +2,9 @@ const path = require("path");
 
 require("dotenv").config();
 
+
+//only using one, Prod database for now
+
 const {
   DATABASE_URL = "postgres://luzvxxyh:OQqSamvju3OT5pGeW8pquDJ0gLhNT2OD@mahmud.db.elephantsql.com/luzvxxyh",
 } = process.env;
